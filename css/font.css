@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans+Condensed:400,600,700&subset=cyrillic');
+
+body,
+input,
+textarea,
+button,
+select {
+    font: 400 16px 'Fira Sans Condensed', sans-serif, arial;
+    color: #3E4649;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Fira Sans Condensed', sans-serif, arial;
+} 
